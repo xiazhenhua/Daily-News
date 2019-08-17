@@ -5,7 +5,7 @@ This page to show every day happens news all over the world!
 from Wechat group Scrapy from Internet ,20 times a day.
 
 ------------------------------------------------------------------
-#_2019_
+#2019
 
 ### **2019-8-16星期五，猿事报。**
 
